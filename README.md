@@ -12,3 +12,7 @@ Week-2 Folder consistes of Frog-Leap_game code in Python created using
 3. Unicode strings
 
 4.Loops
+
+About Game:
+
+There is always a chance for the user to move either the frog or invalid case until he "Quits". The user wins when all the left side frogs and right side frogs are exchanges their positions.
