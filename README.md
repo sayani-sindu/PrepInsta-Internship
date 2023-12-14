@@ -11,7 +11,7 @@ Week-2 Folder consistes of Frog-Leap_game code in Python created using
 
 2.Slicing
 
-3. Unicode strings
+Unicode strings
 
 4.Loops
 
