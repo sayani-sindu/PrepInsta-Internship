@@ -220,7 +220,7 @@ import tkinter
 
 # In[8]:
 
-
+----------------------------------------------------MAIN CODE ---------------------------------------------------------------------------------------------------
 
 ### make a temperory list
 
@@ -273,11 +273,14 @@ while(1):
         else:
             print("Invalid Move")
             continue
+    if game[len(game)-1]=='-' or game[0]=='-':
+        print("you are stuck please try again")
 ### swap the frog with the blank            
     temp=game[pos2]
     game[pos2]=game[pos]
     game[pos]=temp  
-### for every cicle print the output game    
+### for every cicle print the output game 
+    print("[0,1,2,3,4,5,6]")
     for i in game:
         print(i,end="   ")
 ### the above result list is stored in temperory list
@@ -292,8 +295,7 @@ while(1):
 
 # In[ ]:
 
-
-
+--------------------------------------------------------------END OF CODE-----------------------------------------------------------------------------------------
 # Import module 
 from tkinter import *
 from tkinter import messagebox
