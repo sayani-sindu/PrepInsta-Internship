@@ -1,4 +1,4 @@
-# bike_buyers_PerpInsta-week-1
+
 # Week-1:
 A Dynamic Dashboard in "Google Spreadsheets"
 The link to access the Dataset,Calculations and Dashboard is: https://docs.google.com/spreadsheets/d/1COos1CdGblaTFe-SMSM-fvUm5oxVmWuAJDOGCxZQFVI/edit?usp=sharing
@@ -25,9 +25,9 @@ The two datasets cleaning process is done using python and in the file named---D
 
 The main libararies used are:
 
-# 1.Numpy
+## 1.Numpy
 
-# 2.Pandas
+## 2.Pandas
 
 Direct link to see the cleaning process in python is : https://colab.research.google.com/drive/1bIifiytTQOpJDSjApll99puwufJfJ4G5?usp=sharing
 
