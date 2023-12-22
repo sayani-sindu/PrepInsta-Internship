@@ -29,7 +29,7 @@ The main libararies used are:
 
 ### 2.Pandas
 
-Direct link to see the cleaning process in python is : https://colab.research.google.com/drive/1bIifiytTQOpJDSjApll99puwufJfJ4G5?usp=sharing
+Direct link to my Google Colab Notebook : https://colab.research.google.com/drive/1bIifiytTQOpJDSjApll99puwufJfJ4G5?usp=sharing
 
 
 
