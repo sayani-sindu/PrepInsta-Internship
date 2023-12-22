@@ -7,13 +7,13 @@ The link to access the Dataset,Calculations and Dashboard is: https://docs.googl
 
 Week-2 Folder consistes of Frog-Leap_game code in Python created using
 
-1.Lists
+### 1.Lists
 
-2.Slicing
+### 2.Slicing
 
-3.Unicode strings
+### 3.Unicode strings
 
-4.Loops
+### 4.Loops
 
 About Game:
 
@@ -25,9 +25,9 @@ The two datasets cleaning process is done using python and in the file named---D
 
 The main libararies used are:
 
-## 1.Numpy
+### 1.Numpy
 
-## 2.Pandas
+### 2.Pandas
 
 Direct link to see the cleaning process in python is : https://colab.research.google.com/drive/1bIifiytTQOpJDSjApll99puwufJfJ4G5?usp=sharing
 
