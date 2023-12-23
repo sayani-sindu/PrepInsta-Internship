@@ -185,6 +185,7 @@ data1.describe()
 data1['choice_description']=data1['choice_description'].str.replace('[',"")
 
 data1['choice_description']=data1['choice_description'].str.replace(']',"")
+data1['choice_description']=data1['choice_description'].str.replace('-',"")
 
 # enter different number of choices to convert the column of lists to rows of choices
 
