@@ -1,7 +1,7 @@
 
 # Week-1:
 A Dynamic Dashboard in "Google Spreadsheets"
-The link to access the Dataset,Calculations and Dashboard is: https://docs.google.com/spreadsheets/d/1COos1CdGblaTFe-SMSM-fvUm5oxVmWuAJDOGCxZQFVI/edit?usp=sharing
+#### The link to access the Dataset,Calculations and Dashboard is: https://docs.google.com/spreadsheets/d/1COos1CdGblaTFe-SMSM-fvUm5oxVmWuAJDOGCxZQFVI/edit?usp=sharing
 
 # Week-2:
 
@@ -29,7 +29,7 @@ The main libararies used are:
 
 ### 2.Pandas
 
-Direct link to my Google Colab Notebook : https://colab.research.google.com/drive/1bIifiytTQOpJDSjApll99puwufJfJ4G5?usp=sharing
+#### Direct link to my Google Colab Notebook : https://colab.research.google.com/drive/1bIifiytTQOpJDSjApll99puwufJfJ4G5?usp=sharing
 
 # Week-4
 Week-4 Folder Contains four datasets ----
