@@ -39,6 +39,15 @@ Week-4 Folder Contains four datasets ----
 #### 4. Metadata_Country.csv
 and also the --- python file of Visualizations of the data.
 
+### Libraries Used are:
+
+#### 1. Numpy
+#### 2. Pandas
+#### 3. Matplotlib
+#### 4. Seaborn
+#### 5. Plotly
+
+Steps Followed are-------------
 ### Step-1:
 1. Load all the four datasets into the environment and preprocesss all the datasets----Cleaning[ Deleting Null Values, Deleting Duplicates, Checking for inconsistencies in the data, melt the data for the consistency----there are 20+ years data so melt all the columns into a single Column.
 
