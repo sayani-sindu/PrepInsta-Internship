@@ -31,7 +31,16 @@ The main libararies used are:
 
 Direct link to my Google Colab Notebook : https://colab.research.google.com/drive/1bIifiytTQOpJDSjApll99puwufJfJ4G5?usp=sharing
 
+# Week-4
+Week-4 Folder Contains four datasets ----
+#### 1. country_population.csv
+#### 2. fertilty_rate.csv
+#### 3. life_expectancy.csv
+#### 4. Metadata_Country.csv
+and also the --- python file of Visualizations of the data.
 
+### Step-1:
+1. Load all the four datasets into the environment and preprocesss all the datasets----Cleaning[ Deleting Nulll Values, Deleting Duplcates, Checking for inconsistencies in the data, melt the data for the consistency----there are 20= years data so melt all the columns into a single Column.
 
 
 
