@@ -40,7 +40,27 @@ Week-4 Folder Contains four datasets ----
 and also the --- python file of Visualizations of the data.
 
 ### Step-1:
-1. Load all the four datasets into the environment and preprocesss all the datasets----Cleaning[ Deleting Nulll Values, Deleting Duplcates, Checking for inconsistencies in the data, melt the data for the consistency----there are 20= years data so melt all the columns into a single Column.
+1. Load all the four datasets into the environment and preprocesss all the datasets----Cleaning[ Deleting Null Values, Deleting Duplicates, Checking for inconsistencies in the data, melt the data for the consistency----there are 20+ years data so melt all the columns into a single Column.
+
+### Step-2:
+Merge all the datasets and form a single datset with---country code, year, population, fertility rate and life expectancy rate.
+
+### Step-3:
+
+1. Try some visualizations by plotting Line chart, Scatter pot, Distribution plot and Observe the variation of fertility rate.
+2. We observe that Population is constantly oncreasing over the years.
+3. Distribution of fertility rate for all the Regions.
+### Step-4:
+1. We observe the scatter plots for Region, Fertility Rate and Life Expectancy rate are not understandable and difficult to analyze.
+2. So for tis problem we take the help of animation plots for the analysis of the data.
+
+### Step-5:
+1. Draw the visualizaton of animation group years for Region and population over years with Country Codes.
+2. Draw the Animation Visualization for comparing Life Expectancy Rate and Fertility Rate.
+3. Draw the Geographocal animation graph for Fretility rate with Asia and Life Expectancy rate with Asia.
+
+#### Direct Link to the Google Colaboratory is: https://colab.research.google.com/drive/1RS6-WCXkiPr51tnsYLK8nxIx2ToA-D2x?usp=sharing
+
 
 
 
