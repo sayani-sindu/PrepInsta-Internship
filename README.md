@@ -1,6 +1,7 @@
 
 # Week-1:
 A Dynamic Dashboard in "Google Spreadsheets"
+This Dashboard teels about Car Buyers, and the difference between the trends of married and single people, and also female and male.
 #### The link to access the Dataset,Calculations and Dashboard is: https://docs.google.com/spreadsheets/d/1COos1CdGblaTFe-SMSM-fvUm5oxVmWuAJDOGCxZQFVI/edit?usp=sharing
 
 # Week-2:
@@ -69,6 +70,22 @@ Merge all the datasets and form a single datset with---country code, year, popul
 3. Draw the Geographocal animation graph for Fretility rate with Asia and Life Expectancy rate with Asia.
 
 #### Direct Link to the Google Colaboratory is: https://colab.research.google.com/drive/1RS6-WCXkiPr51tnsYLK8nxIx2ToA-D2x?usp=sharing
+
+# Week-5
+Week-5 folder contains projects on- SQL and Web Scrapping
+### SQL Murder Mystery
+
+#### Link to the SQL Murder Mystery Problem Statement: https://mystery.knightlab.com/
+
+#### Problem Statement: A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City​. Start by retrieving the corresponding crime scene report from the police department’s database.
+
+#### Steps Involved:-
+
+1. Load the SQL data into the colab and access the database.
+2. After this, analyze the interviews given by the people and check the data in different tables.
+3. After that we found the culprit --- "JEREMY BOWERS"
+4. Check the interview of the culprit and match the details given in the database.
+5. After Investigation, found Master Mind as "MIRANDA PRIESTLY"
 
 
 
