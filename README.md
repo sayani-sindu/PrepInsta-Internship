@@ -73,6 +73,7 @@ Merge all the datasets and form a single datset with---country code, year, popul
 
 # Week-5
 Week-5 folder contains projects on- SQL and Web Scrapping
+
 ### SQL Murder Mystery
 
 #### Link to the SQL Murder Mystery Problem Statement: https://mystery.knightlab.com/
@@ -86,6 +87,23 @@ Week-5 folder contains projects on- SQL and Web Scrapping
 3. After that we found the culprit --- "JEREMY BOWERS"
 4. Check the interview of the culprit and match the details given in the database.
 5. After Investigation, found Master Mind as "MIRANDA PRIESTLY"
+
+### Web Scrapping
+
+#### Link to find the Web page that is scrapped into a dataframe: https://books.toscrape.com/
+#### Problem Statement: Scrap the given data into a dataframe in understandable format
+##### Libraries used:   
+#### 1.BeautifulSoup
+#### 2.pandas
+
+#### Steps Involved:-
+
+1. Understand the format of the web page by inspecting the elements.
+2. Using BeautifulSoup, send request as url and take response from the website.
+3. There are 50 pages with 20 books in each page.
+4. Using "find" find and store each element information in differnt columns.
+5. Do this to all the pages available and combine the columns to form a dataframe.
+6. The scrapping of the website involves only find and simple functions to convert them into dataframe.
 
 
 
